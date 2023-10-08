@@ -15,4 +15,3 @@ Materials Used
 
 4.Linkedin : You can find a detailed post about my experience on my Linkedin profile.
 
-Popular repositories
